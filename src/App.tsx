@@ -10,7 +10,7 @@ export default function App() {
 			<h1 className="text-5xl font-bold mb-8">🐱 Cats Are Love 🐾</h1>
 			<button
 				onClick={handlePurr}
-				className="px-6 py-3 bg-pink-400 hover:bg-pink-500 text-white font-semibold rounded-2xl shadow-md transition-all duration-200"
+				className=" bg-pink-400 hover:bg-pink-500 px-6 text-white py-3 font-semibold rounded-2xl shadow-md transition-all duration-200"
 			>
 				Purr at me
 			</button>
