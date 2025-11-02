@@ -6,11 +6,11 @@ export default function App() {
 	};
 
 	return (
-		<main className="min-h-screen flex flex-col items-center justify-center bg-linear-65 from-pink-100 via-rose-50 to-purple-100 text-gray-800">
-			<h1 className="text-5xl font-bold mb-8">🐱 Cats Are Love 🐾</h1>
+		<main className="flex min-h-screen flex-col items-center justify-center bg-linear-65 from-pink-100 via-rose-50 to-purple-100 text-gray-800">
+			<h1 className="mb-8 text-5xl font-bold">🐱 Cats Are Love 🐾</h1>
 			<button
 				onClick={handlePurr}
-				className=" bg-pink-400 hover:bg-pink-500 px-6 text-white py-3 font-semibold rounded-2xl shadow-md transition-all duration-200"
+				className="rounded-2xl bg-pink-400 px-6 py-3 font-semibold text-white shadow-md transition-all duration-200 hover:bg-pink-500"
 			>
 				Purr at me
 			</button>
