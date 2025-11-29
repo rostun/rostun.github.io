@@ -1415,10 +1415,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"cats-are-love-cats-are-life@npm:^1.0.0":
-  version: 1.0.0
-  resolution: "cats-are-love-cats-are-life@npm:1.0.0"
-  checksum: 10c0/aaede7a00357c827218e81857e017a77f10a0e40ca1030f644dc3de240c69acf4ea793ba7a4a96cef858e7b4a982bffc59b206c929a5b57a97d4f55f96d6faf0
+"cats-are-love-cats-are-life@npm:^1.0.1":
+  version: 1.0.1
+  resolution: "cats-are-love-cats-are-life@npm:1.0.1"
+  checksum: 10c0/16316271b70a80e405db6c91270bd9c0537ad632ca2cdd7452c71a42064b3305fa0af8e3d63352366ea1ea47d5315d0f2cb677903448a26ba220e77c73060a2c
   languageName: node
   linkType: hard
 
@@ -2960,7 +2960,7 @@ __metadata:
     "@types/react": "npm:^19.1.16"
     "@types/react-dom": "npm:^19.1.9"
     "@vitejs/plugin-react": "npm:^5.0.4"
-    cats-are-love-cats-are-life: "npm:^1.0.0"
+    cats-are-love-cats-are-life: "npm:^1.0.1"
     eslint: "npm:^9.36.0"
     eslint-plugin-react-hooks: "npm:^5.2.0"
     eslint-plugin-react-refresh: "npm:^0.4.22"
