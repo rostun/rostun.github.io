@@ -12,7 +12,7 @@ export default function App() {
 				onClick={handlePurr}
 				className="rounded-2xl bg-pink-400 px-6 py-3 font-semibold text-white shadow-md transition-all duration-200 hover:bg-pink-500"
 			>
-				Pet da cat
+				Pet da dev tools cat
 			</button>
 
 			<footer className="mt-12 text-sm text-gray-500">
